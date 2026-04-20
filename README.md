@@ -1,3 +1,3 @@
-# ens-sem-lab
+# end-sem-lab
 
 DRONE SURVEILLANCE SYSYTEM
